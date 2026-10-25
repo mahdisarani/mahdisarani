@@ -27,6 +27,8 @@
 
 ### 🚀 Projects & Work
 
+*Client & product work — delivered through [Keroshe](https://keroshe.com) (Mashhad Code), where I'm founder and lead developer.*
+
 - 📰 **[Toranji](https://toranji.ir)** — development & maintenance of a high-traffic WordPress news site
 - 🛒 **[Arses Beauty](https://arsesbeauty.com)** — end-to-end WooCommerce implementation: theme, payment flows, integrations
 - 💳 **[PayPing payment plugins](https://github.com/PayPing)** — built & maintain PHP gateway plugins for WordPress, WHMCS, Joomla, OpenCart & more
