@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=200&section=header&text=Mahdi%20Sarani&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=PHP%20%2F%20WordPress%20Developer&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=200&section=header&text=Mahdi%20Sarani&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=PHP%20Web%20Developer&descAlignY=55&descSize=18" width="100%" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -27,7 +27,7 @@
 
 ### 🚀 Projects & Work
 
-*Client & product work — delivered through [Keroshe](https://keroshe.com), where I'm founder and lead developer.*
+*Client & product work — delivered through [Keroshe](https://keroshe.com).*
 
 - 📰 **[Toranji](https://toranji.ir)** — development & maintenance of a high-traffic WordPress news site
 - 🛒 **[Arses Beauty](https://arsesbeauty.com)** — end-to-end WooCommerce implementation: theme, payment flows, integrations
