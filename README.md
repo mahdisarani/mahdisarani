@@ -40,16 +40,29 @@
 ### 📫 Find me
 
 <p align="left">
+  <a href="mailto:mahdisarani1995@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/mahdisarani/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   <a href="https://t.me/mahdi_sarani">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://keroshe.com">
+  <a href="https://keroshe.com" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Keroshe-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Keroshe">
   </a>
-  <a href="https://instagram.com/mahdisarani">
+  <a href="https://instagram.com/mahdisarani" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
+
+<br>
+
+### 💼 Have a project in mind?
+
+WordPress themes & plugins, WooCommerce stores and payment integrations —
+built end-to-end by **[Keroshe](https://keroshe.com)**, Mashhad Code. Let's talk.
 
 <br>
 
