@@ -1,27 +1,19 @@
-<h1 align="center">Mahdi Sarani</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=200&section=header&text=Mahdi%20Sarani&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=PHP%20%2F%20WordPress%20Developer&descAlignY=55&descSize=18" width="100%" />
 
 <p align="center">
-  <b>PHP / WordPress Developer</b> · Mashhad, Iran
-</p>
-
-<p align="center">
-  Building WordPress themes & plugins with clean, reusable architecture —<br>
-  backed by a fully local Docker-based development workflow.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=WordPress+Themes+%26+Plugins;Laravel+Tools+%26+Integrations;Docker-based+Dev+Workflows" alt="Typing SVG">
+  </a>
 </p>
 
 <br>
 
-### 🧰 Tech stack
+### ⚡ Technologies
 
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+<p align="left">
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=php,wordpress,laravel,mysql,redis,docker,linux,git&perline=8" alt="Tech stack" />
+  </a>
 </p>
 
 <br>
@@ -35,14 +27,18 @@
 
 ### 📫 Find me
 
-<p>
+<p align="left">
   <a href="https://t.me/mahdi_sarani">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="https://keroshe.com">
-    <img src="https://img.shields.io/badge/Keroshe-111111?style=flat&logo=googlechrome&logoColor=white" alt="Keroshe">
+    <img src="https://img.shields.io/badge/Keroshe-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Keroshe">
   </a>
   <a href="https://instagram.com/mahdisarani">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=110&section=footer" width="100%" />
