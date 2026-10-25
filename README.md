@@ -27,11 +27,11 @@
 
 ### 🚀 Projects & Work
 
-- 📰 **[Toranji](https://toranji.ir)** — Persian tech news media built on WordPress
-- 🛒 **[Arses Beauty](https://arsesbeauty.com)** — WooCommerce cosmetics store with Digikala integration
-- 💳 **[PayPing payment plugins](https://github.com/PayPing)** — gateway integrations for WordPress, WHMCS, Joomla, OpenCart, Laravel & more
-- 🎓 **[Sanjesh Parsian](https://sanjeshparsian.ir)** — vocational training institute site with online registration & book shop
-- 🛠 **[Sanat va Honar](https://sanathonar-tvto.com)** — TVTO technical institute website: 12 departments + WooCommerce store
+- 📰 **[Toranji](https://toranji.ir)** — development & maintenance of a high-traffic WordPress news site
+- 🛒 **[Arses Beauty](https://arsesbeauty.com)** — end-to-end WooCommerce implementation: theme, payment flows, integrations
+- 💳 **[PayPing payment plugins](https://github.com/PayPing)** — built & maintain PHP gateway plugins for WordPress, WHMCS, Joomla, OpenCart & more
+- 🎓 **[Sanjesh Parsian](https://sanjeshparsian.ir)** — implemented & maintain a WordPress site with online course registration
+- 🛠 **[Sanat va Honar](https://sanathonar-tvto.com)** — developed & maintain a WooCommerce site for a TVTO technical institute
 
 <br>
 
