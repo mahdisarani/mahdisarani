@@ -30,7 +30,6 @@
 - 📰 **[Toranji](https://toranji.ir)** — Persian tech news media built on WordPress
 - 🛒 **[Arses Beauty](https://arsesbeauty.com)** — WooCommerce cosmetics store with Digikala integration
 - 💳 **[PayPing payment plugins](https://github.com/PayPing)** — gateway integrations for WordPress, WHMCS, Joomla, OpenCart, Laravel & more
-- 📦 **[laravel-payping](https://github.com/mahdisarani/laravel-payping)** — Laravel package for the PayPing payment gateway
 - 🎓 **[Sanjesh Parsian](https://sanjeshparsian.ir)** — vocational training institute site with online registration & book shop
 - 🛠 **[Sanat va Honar](https://sanathonar-tvto.com)** — TVTO technical institute website: 12 departments + WooCommerce store
 
