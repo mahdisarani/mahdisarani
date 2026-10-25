@@ -12,7 +12,7 @@
 
 <p align="left">
   <a href="https://www.php.net/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=php,wordpress,laravel,mysql,redis,docker,linux,git&perline=8" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=php,wordpress,laravel,mysql,javascript,tailwind,redis,docker,linux,git&perline=5" alt="Tech stack" />
   </a>
 </p>
 
