@@ -30,8 +30,8 @@
 - 📰 **[Toranji](https://toranji.ir)** — development & maintenance of a high-traffic WordPress news site
 - 🛒 **[Arses Beauty](https://arsesbeauty.com)** — end-to-end WooCommerce implementation: theme, payment flows, integrations
 - 💳 **[PayPing payment plugins](https://github.com/PayPing)** — built & maintain PHP gateway plugins for WordPress, WHMCS, Joomla, OpenCart & more
-- 🎓 **[Sanjesh Parsian](https://sanjeshparsian.ir)** — implemented & maintain a WordPress site with online course registration
-- 🛠 **[Sanat va Honar](https://sanathonar-tvto.com)** — developed & maintain a WooCommerce site for a TVTO technical institute
+- 🎓 **[Sanjesh Parsian](https://sanjeshparsian.ir)** — custom WordPress/WooCommerce development: bespoke CPTs, course registration & book shop
+- 🛠 **[Sanat va Honar](https://sanathonar-tvto.com)** — bespoke WooCommerce & CPT development for a TVTO technical institute site
 
 <br>
 
