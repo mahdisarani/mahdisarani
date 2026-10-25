@@ -27,11 +27,11 @@
 
 ### 🚀 Projects & Work
 
-*Client & product work — delivered through [Keroshe](https://keroshe.com) (Mashhad Code), where I'm founder and lead developer.*
+*Client & product work — delivered through [Keroshe](https://keroshe.com), where I'm founder and lead developer.*
 
 - 📰 **[Toranji](https://toranji.ir)** — development & maintenance of a high-traffic WordPress news site
 - 🛒 **[Arses Beauty](https://arsesbeauty.com)** — end-to-end WooCommerce implementation: theme, payment flows, integrations
-- 💳 **[PayPing payment plugins](https://github.com/PayPing)** — built & maintain PHP gateway plugins for WordPress, WHMCS, Joomla, OpenCart & more
+- 💳 **[PayPing payment plugins](https://github.com/PayPing)** — built & maintain PHP gateway plugins for WordPress, WHMCS, Joomla, OpenCart & more · WooCommerce gateway: 1,000+ active installs on WordPress.org
 - 🎓 **[Sanjesh Parsian](https://sanjeshparsian.ir)** — custom WordPress/WooCommerce development: bespoke CPTs, course registration & book shop
 - 🛠 **[Sanat va Honar](https://sanathonar-tvto.com)** — bespoke WooCommerce & CPT development for a TVTO technical institute site
 
@@ -45,6 +45,9 @@
   </a>
   <a href="https://www.linkedin.com/in/mahdisarani/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://profiles.wordpress.org/mahdisarani/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/WordPress.org-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress.org profile">
   </a>
   <a href="https://t.me/mahdi_sarani">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
@@ -62,7 +65,7 @@
 ### 💼 Have a project in mind?
 
 WordPress themes & plugins, WooCommerce stores and payment integrations —
-built end-to-end by **[Keroshe](https://keroshe.com)**, Mashhad Code. Let's talk.
+built end-to-end by **[Keroshe](https://keroshe.com)**. Let's talk.
 
 <br>
 
