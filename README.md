@@ -1,10 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=200&section=header&text=Mahdi%20Sarani&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=PHP%20%26%20WordPress%20Web%20Developer&descAlignY=55&descSize=18" width="100%" />
+<img src="assets/header.svg" width="100%" alt="Mahdi Sarani — PHP & WordPress Web Developer" />
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=WordPress+Themes+%26+Plugins;Laravel+Tools+%26+Integrations;Docker-based+Dev+Workflows" alt="Typing SVG">
-  </a>
-</p>
+<p align="center"><b><samp>WordPress Themes &amp; Plugins&nbsp;·&nbsp;Laravel Tools&nbsp;·&nbsp;Docker Workflows</samp></b></p>
 
 <br>
 
@@ -69,4 +65,4 @@ built end-to-end by **[Keroshe](https://keroshe.com)**. Let's talk.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=110&section=footer" width="100%" />
+<img src="assets/footer.svg" width="100%" alt="" />
