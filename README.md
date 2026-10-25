@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="https://keroshe.com">
-    <img src="https://img.shields.io/badge/Kerooshe-111111?style=flat&logo=googlechrome&logoColor=white" alt="Kerooshe">
+    <img src="https://img.shields.io/badge/Keroshe-111111?style=flat&logo=googlechrome&logoColor=white" alt="Keroshe">
   </a>
   <a href="https://instagram.com/mahdisarani">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
