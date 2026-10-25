@@ -25,6 +25,15 @@
 
 <br>
 
+### 🚀 Projects & Work
+
+- 📰 **[Toranji](https://toranji.ir)** — Persian tech news media built on WordPress
+- 🛒 **[Arses Beauty](https://arsesbeauty.com)** — WooCommerce cosmetics store with Digikala integration
+- 💳 **[PayPing payment plugins](https://github.com/PayPing)** — gateway integrations for WordPress, WHMCS, Joomla, OpenCart, Laravel & more
+- 📦 **[laravel-payping](https://github.com/mahdisarani/laravel-payping)** — Laravel package for the PayPing payment gateway
+
+<br>
+
 ### 📫 Find me
 
 <p align="left">
